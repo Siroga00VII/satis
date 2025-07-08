@@ -1,0 +1,8 @@
+{
+  "Site": "https://satis.fun",
+  "LocalHost": "https://localhost:8888",
+  "Host": "https://satis.fun:8885",
+  "HostDns": "satis.fun",
+  "HostIp": "212.24.96.101",
+  "HostPort": 8885
+}
