@@ -1,8 +1,8 @@
 {
-  "Site": "https://satis.fun",
+  "Site": "https://satis.run.place",
   "LocalHost": "https://localhost:8888",
-  "Host": "https://satis.fun:8885",
-  "HostDns": "satis.fun",
+  "Host": "https://satis.run.place:8885",
+  "HostDns": "satis.run.place",
   "HostIp": "212.24.96.101",
   "HostPort": 8885
 }
